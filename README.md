@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aalvarez1026/aalvarez1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy aalvarez
 
-Here are some ideas to get you started:
+**Desarrollo web · Aprendizaje práctico**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comparto mi aprendizaje a través del código y de proyectos prácticos.
+
+</div>
+
+---
+
+## Proyecto destacado
+
+### [Metagra · Proyecto web](https://github.com/aalvarez1026/metagra-forge-art)
+
+Web corporativa con páginas de grupo, tecnologías, sectores, calidad y contacto. Interfaz adaptable, animaciones y soporte para varios idiomas.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Supabase`
+
+## Tecnologías presentes en mis proyectos
+
+| Área | Herramientas |
+| --- | --- |
+| Interfaz | React, TypeScript, Tailwind CSS y shadcn/ui |
+| Experiencia de usuario | Framer Motion e i18next |
+| Desarrollo | Vite, ESLint y Git |
+| Integraciones | Supabase |
